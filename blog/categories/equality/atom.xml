@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Breaking Gems]]></title>
-  <link href="http://korey-enright.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Equality | Breaking Gems]]></title>
+  <link href="http://korey-enright.github.io/blog/categories/equality/atom.xml" rel="self"/>
   <link href="http://korey-enright.github.io/"/>
   <updated>2015-04-21T11:04:04-05:00</updated>
   <id>http://korey-enright.github.io/</id>
