@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://korey-enright.github.io/blog/2015/04/23/design-and-function/</loc>
+    <lastmod>2015-04-23T12:41:39-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://korey-enright.github.io/blog/2015/04/21/codecamp-faeries-and-rails/</loc>
     <lastmod>2015-04-21T08:50:42-05:00</lastmod>
   </url>
@@ -21,5 +25,23 @@
   </url>
   <url>
     <loc>http://korey-enright.github.io/blog/categories/equality/</loc>
+  </url>
+  <url>
+    <loc>http://korey-enright.github.io/blog/categories/design/</loc>
+  </url>
+  <url>
+    <loc>http://korey-enright.github.io/blog/categories/octopress/</loc>
+  </url>
+  <url>
+    <loc>http://korey-enright.github.io/blog/categories/huawei/</loc>
+  </url>
+  <url>
+    <loc>http://korey-enright.github.io/blog/categories/ruby/</loc>
+  </url>
+  <url>
+    <loc>http://korey-enright.github.io/blog/categories/firewalls/</loc>
+  </url>
+  <url>
+    <loc>http://korey-enright.github.io/blog/categories/rake/</loc>
   </url>
 </urlset>

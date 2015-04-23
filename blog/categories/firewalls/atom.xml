@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Firewalls, | Breaking Gems]]></title>
+  <link href="http://korey-enright.github.io/blog/categories/firewalls/atom.xml" rel="self"/>
+  <link href="http://korey-enright.github.io/"/>
+  <updated>2015-04-23T13:19:09-05:00</updated>
+  <id>http://korey-enright.github.io/</id>
+  <author>
+    <name><![CDATA[Korey Enright]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Design and Function]]></title>
+    <link href="http://korey-enright.github.io/blog/2015/04/23/design-and-function/"/>
+    <updated>2015-04-23T12:41:39-05:00</updated>
+    <id>http://korey-enright.github.io/blog/2015/04/23/design-and-function</id>
+    <content type="html"><![CDATA[<h2>Mistakes in Design</h2>
+
+<p>So, I&rsquo;ve been looking for an android wearable recently, and I have
+come across the Huawei Watch. It hasn&rsquo;t yet been released,
+unfortunately, but it looks like it is going to rival, and perhaps
+even exceed the Apple Watch when it is finally released. I was
+interested in maybe getting the Moto 360 or the LG Watch, but I
+dislike the little flat tire design on the Moto and the square design
+of the LG. The Huawei&rsquo;s traditional watch design looks really
+fantastic, and indeed, I really enjoy it. I much prefer it to some
+other watches.</p>
+
+<p>But, there is an issue with Huawei&rsquo;s design. Not so much in the watch,
+which again is fantastic, but in the design for their
+<a href="consumer.huawei.com/minisite/worldwide/huawei-watch/">website</a>. It
+looks nice enough, a pleasant theme that works well, not too many
+images beyond the massive info wall, and everything looks easily
+navigable. That is, until you try to scroll down to read more
+information. Now, I don&rsquo;t know about you, but I prefer to scroll with
+my mouse. Sure, I can use the keyboard, but I like keeping my hands
+ready to type as opposed to over by the arrow keys. When you try to
+scroll down with a scroll wheel on Huawei&rsquo;s site, like, you know,
+normal human beings generally do, it treats each click of the wheel as
+going down one &ldquo;frame&rdquo; in the infographic. This is absolutely awful,
+and completely unlike anything else on the web. It&rsquo;s infuriating,
+actually. Like, who could have possibly thought that would have been a
+good idea?</p>
+
+<h2>Complete Segue into the Project I Am Now Working On</h2>
+
+<p>First things first: screw the everloving shit out of corporate
+firewalls. They make everything stupid difficult to deal
+with. Anyways, dealing with a corporate firewall on Windows actually
+isn&rsquo;t too bad for most things - for instance, to fix like everything
+on a Windows system you have to figure out what your proxy server is,
+and then you can throw that info into the System Environment variables
+on your system by making a new variable: <code>HTTP_PROXY</code> with the value
+being proxy.address:port. The problem is that this doesn&rsquo;t fix every
+problem. Sure, you can use git now, and gem, and all the other super
+useful commands, but not every rake command is going to work well.</p>
+
+<p>Right now, we are building tests for our database. Now, normally
+everything should work fine - we&rsquo;re using FFaker and Factory Girl to
+generate data for RSpec test cases. Unfortunately, when I try to run
+<code>rake test</code>, things get wonky. Specifically, it can&rsquo;t figure out how
+to setup a local server (or something) and run the tests there. Oh
+well. I guess one day I&rsquo;ll figure it out, and what&rsquo;s more, TravisCI
+runs the tests, so everything at the very least seems to be working.</p>
+
+<p>Man this blog is random. Eh, I&rsquo;ll get better at this in time, just
+like I will at Ruby on Rails!!</p>
+]]></content>
+  </entry>
+  
+</feed>
