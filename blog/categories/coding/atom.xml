@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Coding | Breaking Gems]]></title>
+  <link href="http://korey-enright.github.io/blog/categories/coding/atom.xml" rel="self"/>
+  <link href="http://korey-enright.github.io/"/>
+  <updated>2015-10-29T14:28:47-05:00</updated>
+  <id>http://korey-enright.github.io/</id>
+  <author>
+    <name><![CDATA[Korey Enright]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CodePen and CodinGame]]></title>
+    <link href="http://korey-enright.github.io/blog/2015/10/29/codepen-and-codingame/"/>
+    <updated>2015-10-29T14:13:51-05:00</updated>
+    <id>http://korey-enright.github.io/blog/2015/10/29/codepen-and-codingame</id>
+    <content type="html"><![CDATA[<h2>CodinGame</h2>
+
+<p>So I found CodinGame off of an advertisement on Facebook - its pretty nice. Its mostly just a bunch of various coding challenges centered around computer science principles coupled with gamification, but gamification does work. The feel of everything is right as well - the design is functional and easy to use, and the onboarding process is done very well. It guides you through using the browser-based IDE and the first of many challenges, effectively teaching you the basics of its interface.</p>
+
+<p>On the other hand, trying to find friends and followers is a bit of a pain - there&rsquo;s a lot to be said for iconography as a navigational choice, but not all of it is kind. Particularly if the iconography is new or different when compared to similar websites. For instance, the &ldquo;Home&rdquo; button doesn&rsquo;t bring you to where you would expect - it brings you to what appears to be a page to sign up for a contest. In order to get to some sort of dashboard, you have to click on your profile, where you can find an overview of your activity on the site.</p>
+
+<p>Of course, there is the question of what they want to drive traffic to (which is presumably the contests) but regardless, home should bring you to a section of the site where things are familiar and you feel like you are in control. This just brings you to a sign-up page for a very specific feature on the site.</p>
+
+<h2>CodePen</h2>
+
+<p>CodePen is a pretty amazing website - the UI is great, the design is both usable and beautiful, and the onboarding process was done quite well. It is essentially a public code repository, which is amazingly useful for pretty much anything, including showcasing your own work. I can see that I will learn quite a lot by using CodePen as a fun environment to test out new designs and concepts.</p>
+]]></content>
+  </entry>
+  
+</feed>
